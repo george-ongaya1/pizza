@@ -9,7 +9,7 @@ This project is a web application for Delani studio that shows details about the
 
 Thus allowing for an iterative process that uses user feedback to enable evolution of service delivery.
 
-https://github.com/george-ongaya1/delaniStudios.git
+https://github.com/george-ongaya1/pizza.git
 
 ## Live page
 https://george-ongaya1.github.io/delaniStudios/
@@ -24,7 +24,7 @@ https://george-ongaya1.github.io/delaniStudios/
 
 ## Setup/Installation Requirements
 - Open terminal (Ctrl+Alt+T)
-- Copy the url -https://github.com/george-ongaya1/delaniStudios.git
+- Copy the url -https://github.com/george-ongaya1/pizza.git
 - cd delaniStudios
 - code . depending on the text editor of your choosing.
 
@@ -48,7 +48,7 @@ If you have any questions or contributions, please reach me at.
 ### License
 
 - MIT  License
-- Copyright (c) 2021 by George Ongaya (https://github.com/george-ongaya1/delaniStudios.git)
+- Copyright (c) 2021 by George Ongaya (https://github.com/george-ongaya1/pizza.git)
 
  
  
