@@ -1,18 +1,16 @@
-# Delani Studios
+# Pizza
 
 ## Author 
 
  George Ongaya
 
 ## Description
-This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios.
-
-Thus allowing for an iterative process that uses user feedback to enable evolution of service delivery.
+This project is a web application for Pizza  
 
 https://github.com/george-ongaya1/pizza.git
 
 ## Live page
-https://george-ongaya1.github.io/delaniStudios/
+https://george-ongaya1.github.io/pizza/
 
 ## Screenshot
 
