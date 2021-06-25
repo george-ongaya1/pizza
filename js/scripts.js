@@ -14,6 +14,10 @@
     pizzaSize: "large",
     pizzaCost: 1200,
   };
+//Using a prototype on pizza//
+String.prototype.addSmall = function (){return this+"Small"}
+String.prototype.addMedium = function (){return this+"Medium"}
+String.prototype.addLarge = function (){return this+"Large "}
 //Using a constructor on pizza//
 function pizzaDetails (name,size,cost){
     this.name=name;
