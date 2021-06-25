@@ -1,11 +1,13 @@
-# Pizza
+# Pizza website
 
 ## Author 
 
  George Ongaya
 
 ## Description
-This project is a web application for Pizza  
+This project is a web application, where your customers order different sizes of pizzas with one or more toppings.
+
+It involves working with constructors, prototypes, objects, properties, and methods in Javascript as well as using jQuery and DOM manipulation and traversal.
 
 https://github.com/george-ongaya1/pizza.git
 
@@ -14,11 +16,29 @@ https://george-ongaya1.github.io/pizza/
 
 ## Screenshot
 
-<img src="https://raw.githubusercontent.com/george-ongaya1/delaniStudios/master/images/screenshots/Screenshot from 2021-06-21 15-09-00.png" width="900px" height="440px">  
-<img src="https://raw.githubusercontent.com/george-ongaya1/delaniStudios/master/images/screenshots/Screenshot from 2021-06-21 15-09-15.png" width="900px" height="440px">  
-<img src="https://raw.githubusercontent.com/george-ongaya1/delaniStudios/master/images/screenshots/Screenshot from 2021-06-21 15-09-28.png"  width="900px" height="440px">  
-<img src="https://raw.githubusercontent.com/george-ongaya1/delaniStudios/master/images/screenshots/Screenshot from 2021-06-21 15-09-45.png" width="900px" height="440px">  
+<img src="https://raw.githubusercontent.com/george-ongaya1/pizza/master/images/screenshots/Screenshot from 2021-06-21 15-09-00.png" width="900px" height="440px">  
+<img src="https://raw.githubusercontent.com/george-ongaya1/pizza/master/images/screenshots/Screenshot from 2021-06-21 15-09-15.png" width="900px" height="440px">  
+<img src="https://raw.githubusercontent.com/george-ongaya1/pizza/master/images/screenshots/Screenshot from 2021-06-21 15-09-28.png"  width="900px" height="440px">  
+<img src="https://raw.githubusercontent.com/george-ongaya1/pizza/master/images/screenshots/Screenshot from 2021-06-21 15-09-45.png" width="900px" height="440px">  
 
+## BDD
+
+|     |      |        |
+|:--  |:----:|     --:|  
+|     |      |        |
+|     |      |        | 
+|     |      |        |
+|     |      |        | 
+|     |      |        |
+|     |      |        |                     
+|     |      |        |
+|     |      |        | 
+|     |      |        |
+|     |      |        | 
+|     |      |        |
+|     |      |        | 
+|     |      |        |
+|     |      |        | 
 
 ## Setup/Installation Requirements
 - Open terminal (Ctrl+Alt+T)
