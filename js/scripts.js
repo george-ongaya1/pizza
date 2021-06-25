@@ -1,5 +1,8 @@
-$(document).ready(function()
-{
-$('#divID').html("hello world");
-});
-    
+ //Pizza object encapsulation //
+ var pizzaSlice = {
+    pizzaName: "Peri-peri  ",
+    pizzaType: "Chicken",
+    level: 1,
+    track: ["Prep","JavaScript","Python", "Django"],
+    enrollmentStatus: true
+  }; 
