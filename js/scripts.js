@@ -1,8 +1,16 @@
  //Pizza object encapsulation //
- var pizzaSlice = {
-    pizzaName: "Peri-peri  ",
-    pizzaType: "Chicken",
-    level: 1,
-    track: ["Prep","JavaScript","Python", "Django"],
-    enrollmentStatus: true
+ let periSmall = {
+    pizzaName: "Peri-peri Chicken",
+    pizzaCost: "small",
+    pizzaCost: 550,
   }; 
+  let periMedium = {
+    pizzaName: "Peri-peri Chicken",
+    pizzaCost: "medium",
+    pizzaCost: 800,
+  };
+  let periLarge= {
+    pizzaName: "Peri-peri Chicken",
+    pizzaCost: "large",
+    pizzaCost: 1200,
+  };
