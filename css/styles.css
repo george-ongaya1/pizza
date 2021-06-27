@@ -8,3 +8,21 @@ body {
   overflow-x: hidden;
   color: #ffffff;
 }
+#spantext {
+  color: yellow;
+}
+
+.navi {
+  float: right;
+}
+
+.exc {
+  color: yellow;
+}
+
+#piz-pap {
+  font-family: cursive;
+  font-size: 35px;
+  font-weight: normal;
+  color: darkorange;
+}
