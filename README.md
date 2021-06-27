@@ -16,13 +16,10 @@ https://george-ongaya1.github.io/pizza/
 
 ## Screenshot
 
-<img src="https://raw.githubusercontent.com/george-ongaya1/pizza/master/images/screenshots/Screenshot from 2021-06-21 15-09-00.png" width="900px" height="440px">  
-  
-
-## BDD
-
+<img src="https://raw.githubusercontent.com/george-ongaya1/pizza/master/images/screenshots/Screenshot from 2021-06-27 21-43-38.png" width="900px" height="440px">  
+ 
 ## BDD:
-| Inputs |  Description |
+| Inputs |  Details |
 | :---         |          ---: |
 | Pizza Flavour   | `eg Hawaiian`|
 | Pizza size     | `eg medium`   |
