@@ -1,4 +1,4 @@
-# Pizza website
+# George's pizzeria
 
 ## Author 
 
@@ -9,10 +9,10 @@ This project is a web application, where your customers order different sizes of
 
 It involves working with constructors, prototypes, objects, properties, and methods in Javascript as well as using jQuery and DOM manipulation and traversal.
 
-https://github.com/george-ongaya1/pizza.git
+`https://github.com/george-ongaya1/pizza.git`
 
 ## Live page
-https://george-ongaya1.github.io/pizza/
+`https://george-ongaya1.github.io/pizza/`
 
 ## Screenshot
 
@@ -23,28 +23,21 @@ https://george-ongaya1.github.io/pizza/
 
 ## BDD
 
-|     |      |        |
-|:--  |:----:|     --:|  
-|     |      |        |
-|     |      |        | 
-|     |      |        |
-|     |      |        | 
-|     |      |        |
-|     |      |        |                     
-|     |      |        |
-|     |      |        | 
-|     |      |        |
-|     |      |        | 
-|     |      |        |
-|     |      |        | 
-|     |      |        |
-|     |      |        | 
+## BDD:
+| Inputs |  Description |
+| :---         |          ---: |
+| Pizza Flavour   | `eg chicken-tikka`|
+| Pizza size     | `eg medium`   |
+| Pizza crust    | `eg flatbread crust`   |
+| Pizza topping    | `eg Beef peperoni`  |
+| Number of pizzas   | `eg 10`   |
+| Delivery mode   | `eg delivery`   |
 
 ## Setup/Installation Requirements
-- Open terminal (Ctrl+Alt+T)
-- Copy the url -https://github.com/george-ongaya1/pizza.git
-- cd delaniStudios
-- code . depending on the text editor of your choosing.
+- `Open terminal `(Ctrl+Alt+T)
+- `Copy the url` -https://github.com/george-ongaya1/pizza.git
+- `cd` delaniStudio
+- `code .` depending on the text editor of your choosing.
 
 ## Known Bugs
 - The site isnt responsive enough for some devices.

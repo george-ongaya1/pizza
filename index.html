@@ -17,18 +17,29 @@
         <h1>Georges Pizzeria</h1>
         <div class="row>"><!--row-->
             <div class="col-md-4"><!--6columns-->
-                <h2>First name</h2>
+                <h2>Add a new contact</h2>
+                <form id="new-contact"> 
                 <div class="form-group"><!--form group-->
-                    <label for="first-name">new-first-name</label>
-                    <input type="text" class="form-control" id="first-name">
+                    <label for="new-first-name">new-first-name</label>
+                    <input type="text" class="form-control" id="new-first-name">
                 </div><!--form group-->
                 <h2>Last name</h2>
                 <div class="form-group"><!--form group-->
                     <label for="new-last-name">new first name</label>
-                    <input type="text" class="form-control" id="last-name">
+                    <input type="text" class="form-control" id="new-last-name">
                 </div><!--form group-->
-                <button type="submit" class="btn"></button>
+                <button type="submit" class="btn-info">Add</button></form>
+                <h2>contacts</h2>
+                <ul id="contacts"></ul>
             </div><!--6columns-->
+            <div class="col-md-6">
+                <div id="show-contact">
+                  <h2></h2>
+              
+                  <p>First name: <span class="first-name"></span></p>
+                  <p>Last name: <span class="last-name"></span></p>
+                </div>
+              </div>  
         </div><!--row-->
     </div><!---container-->
     <p>Types of pizza </p>
