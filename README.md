@@ -9,27 +9,25 @@ This project is a web application, where your customers order different sizes of
 
 It involves working with constructors, prototypes, objects, properties, and methods in Javascript as well as using jQuery and DOM manipulation and traversal.
 
-`https://github.com/george-ongaya1/pizza.git`
+https://github.com/george-ongaya1/pizza.git
 
 ## Live page
-`https://george-ongaya1.github.io/pizza/`
+https://george-ongaya1.github.io/pizza/
 
 ## Screenshot
 
 <img src="https://raw.githubusercontent.com/george-ongaya1/pizza/master/images/screenshots/Screenshot from 2021-06-21 15-09-00.png" width="900px" height="440px">  
-<img src="https://raw.githubusercontent.com/george-ongaya1/pizza/master/images/screenshots/Screenshot from 2021-06-21 15-09-15.png" width="900px" height="440px">  
-<img src="https://raw.githubusercontent.com/george-ongaya1/pizza/master/images/screenshots/Screenshot from 2021-06-21 15-09-28.png"  width="900px" height="440px">  
-<img src="https://raw.githubusercontent.com/george-ongaya1/pizza/master/images/screenshots/Screenshot from 2021-06-21 15-09-45.png" width="900px" height="440px">  
+  
 
 ## BDD
 
 ## BDD:
 | Inputs |  Description |
 | :---         |          ---: |
-| Pizza Flavour   | `eg chicken-tikka`|
+| Pizza Flavour   | `eg Hawaiian`|
 | Pizza size     | `eg medium`   |
-| Pizza crust    | `eg flatbread crust`   |
-| Pizza topping    | `eg Beef peperoni`  |
+| Pizza crust    | `eg thick crust`   |
+| Pizza topping    | `eg  Mushroom`  |
 | Number of pizzas   | `eg 10`   |
 | Delivery mode   | `eg delivery`   |
 
