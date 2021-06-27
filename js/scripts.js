@@ -24,7 +24,7 @@ $(function () {
                       totalPrice = (price * number) +  80;
                   } else if (crust === "thick") {
                       totalPrice = (price * number) + 100;
-                  } else if (crust === "custom") {
+                  } else if (crust === "flatbread") {
                       totalPrice = (price * number) + 120;
                   } else {
                       totalPrice = (price * number) + 200;
@@ -36,7 +36,7 @@ $(function () {
                       totalPrice = (price * number) +  80;
                   } else if (crust === "thick") {
                       totalPrice = (price * number) + 100;
-                  } else if (crust === "custom") {
+                  } else if (crust === "flatbread") {
                       totalPrice = (price * number) + 120;
                   } else {
                       totalPrice = (price * number) + 200;
@@ -48,7 +48,7 @@ $(function () {
                       totalPrice = (price * number) +  80;
                   } else if (crust === "thick") {
                       totalPrice = (price * number) + 100;
-                  } else if (crust === "custom") {
+                  } else if (crust === "flatbread") {
                       totalPrice = (price * number) + 120;
                   } else {
                       totalPrice = (price * number) + 200;
@@ -418,4 +418,18 @@ $(function () {
         $.scrollify.move('#sum-order');
     });
 });
- 
+ //refactoring function
+ let size, email;
+size = document.getElementById('#size').value;
+email = document.getElementById('#email').value;
+
+function subscribe() {
+    alert("Hello " + email + "Thank for reaching out");
+    console.log(email);
+}
+
+let validateInput = () => {
+    if (size === "") {
+        console.log("Please specify the size");
+    }
+}
